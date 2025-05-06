@@ -21,7 +21,8 @@ MarkupSafe==1.1.1
 matplotlib==2.2.5
 monotonic==1.6
 node-semver==0.6.1
-numpy==1.16.6
+numpy==1.23.5
+wheel
 packaging==20.9
 pandas==0.24.2
 patch-ng==1.17.4
@@ -31,7 +32,7 @@ pybind11==2.9.2
 Pygments==2.5.2
 PyJWT==1.7.1
 pyparsing==2.4.7
-python-dateutil==2.9.0.post0
+python-dateutil==3.11
 pytz==2025.2
 PyYAML==5.4.1
 requests==2.27.1
