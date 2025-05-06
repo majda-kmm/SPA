@@ -22,9 +22,9 @@ matplotlib==2.2.5
 monotonic==1.6
 node-semver==0.6.1
 numpy==1.23.5
+pandas==2.1.4
 wheel
 packaging==20.9
-pandas==0.24.2
 patch-ng==1.17.4
 pathlib2==2.3.7.post1
 pluginbase==1.0.1
